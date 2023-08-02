@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/akulg/OneDrive/Desktop/Akul Goel/Professional Apps/Unreal Projects/MetahumanForUE5_2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/akulg/OneDrive/Desktop/Akul Goel/Professional Apps/Unreal Projects/MetahumanForUE5_2/Content/MetaHumans/SurvivalChar/BP_Player.uasset",
+				"C:/Users/akulg/OneDrive/Desktop/Akul Goel/Professional Apps/Unreal Projects/MetahumanForUE5_2/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/akulg/OneDrive/Desktop/Akul Goel/Professional Apps/Unreal Projects/MetahumanForUE5_2/Content/MetaHumans/SurvivalChar/BP_PLayer.uasset"
+			]
+		}
+	]
+}
